@@ -54,7 +54,7 @@ This could be run with
 $ python3 scrapwechat.py
 ```
 
-Now I have a basic snippet that works as long as the user - my friend - behaves. Steps to take from here includes:
+Now I have a basic snippet that works as long as the user - my friend - behaves. Steps to take from here include:
 - Allow user to specify saved image name and path (save to Desktop by default)
 - Error handling
 - Secure Sockets Layer(SSL) certificates.
