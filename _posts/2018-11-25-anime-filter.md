@@ -6,7 +6,7 @@ title: Adding an Anime-ish Color Filter to Your Image with Python
 How to add a color filter and a Japanese anime touch to your image without touching your favorite Digital Drawing APP.
 
 
-#### The Motivation
+## The Motivation
 
 Let's first take a look at a sample image - a forever WIP of mine as I struggle with drawing backgrounds.
 
@@ -41,7 +41,7 @@ Let's review the steps to perform before diving into the code:
 3. Screen any two of the three multiplied layers above the remaining one
 
 
-#### The Code
+## The Code
 
 **animefilter.py**
 ```python

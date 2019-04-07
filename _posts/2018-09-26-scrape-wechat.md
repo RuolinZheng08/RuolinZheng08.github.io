@@ -6,7 +6,7 @@ title: Scraping Thumbnail From WeChat Official Account Posts
 How to automatically scrape the thumbnail image from any WeChat Official Account Posts with a few lines of Python.
 
 
-#### The Motivation
+## The Motivation
 
 I met with a high school friend a few days ago, who is now a pro in writing and editing posts for WeChat Official Accounts as part of her involvement with the school media team. Frequently, she needs to extract images and texts from a post for adaptation and modification.
 
@@ -28,9 +28,9 @@ A simple Python web scraper would spare my friend from such tedious repetitions.
 This is how it plays out in the code.
 
 
-#### The Code
+## The Code
 
-scrapwechat.py
+**scrapewechat.py**
 ```python
 #!user/bin/python3
 from urllib.request import urlopen
