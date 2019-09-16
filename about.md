@@ -6,13 +6,13 @@ permalink: /about/
 
 Hello, I'm Ruolin (pronounced *ru-leen*), or you can just call me Lynn. I'm a junior student at the University of Chicago double-majoring in Computer Science and Statistics.
 
-I have experience in Web Development, APP Development, and Machine Learning from my coursework, internships, and extracurricular activities. Take a look at my resume <a href="{{ site.baseurl }}/resume.pdf">here</a>.
+I have experience in Machine Learning, APP Development, and Web Development from my coursework, internships, and extracurricular activities. Take a look at my <a href="{{ site.baseurl }}/resume.pdf">resume</a> or connect with me on [LinkedIn](https://www.linkedin.com/in/ruolin-zheng/).
 
 ## Coursework
 
 I've taken many CS courses at UChicago that I find immensely interesting and intellectually challenging, for example:
 
-- CMSC 25400 Machine Learning, in which I completed 5 projects ranging from Clustering to a Long-Short Term Memory Model. Read more in my <a href="{{ site.baseurl }}/_posts/2019-03-20-ml-projects.md">blog post</a> or visit my [GitHub repository](https://github.com/RuolinZheng08/cmsc25400-machine-learning).
+- CMSC 25400 Machine Learning, in which I completed 5 projects ranging from Clustering to a Long-Short Term Memory Model. Read more in my <a href="{{ site.baseurl }}/_posts/2019-03-20-ml-projects">blog post</a> or visit my [GitHub repository](https://github.com/RuolinZheng08/cmsc25400-machine-learning).
 
 - CMSC 23010 Parallel Computing, in which I practiced multi-thread programming and implemented concurrent data structures like lock-free queues, linked lists, and hash tables. For more details, visit my [GitHub repository](https://github.com/RuolinZheng08/cmsc23010-parallel-computing
 ).
