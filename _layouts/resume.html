@@ -29,6 +29,20 @@
   </head>
   <body>
     {% include navigation.html %}
-    {% include resume_about.html %}
+    <div class="container-fluid p-0">
+      {% include resume_about.html %}
+      <hr class="m-0">
+      {% include resume_section.html %}
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="assets/jquery/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="assets/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="assets/resume.min.js"></script>
   </body>
 </html>
