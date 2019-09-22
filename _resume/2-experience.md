@@ -27,7 +27,7 @@ items:
     - Optimized CSS for mobile display and compressed over 150 images to achieve a 50% increase in Page Load Speed
 
 - date: June 2018 to August 2018
-  title: UChicago CANON Research Lab (Computing for ANyONe)
+  title: UChicago CANON Research Lab
   title_icon: 
   title_link: 
   subtitle: Research Assistant, Curriculum Development Intern

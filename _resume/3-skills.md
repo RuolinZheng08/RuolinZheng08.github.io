@@ -1,24 +1,26 @@
 ---
-layout: skills
+layout: resume_list
 title: skills
-languages:
-  - Python (2 years)
-  - C/C++ (2 years | industrial)
-  - Java
-  - HTML/CSS/JavaScript
-  - Ruby on Rails
-  - R
-  - SQL
-  - Swift
-  - Go
-
-tools:
-  - Linux (2 years)
-  - Visual Studio (3 months | industrial)
-  - wxWidgets (3 months | industrial)
-  - Xcode
-  - PyTorch
-  - TensorFlow
-  - Keras
-  - Bootstrap
+lists:
+  - title: Programming Languages
+    items:
+      - name: Python (2 years)
+      - name: C/C++ (2 years | industrial)
+      - name: Java
+      - name: HTML/CSS/JavaScript
+      - name: Ruby on Rails
+      - name: R
+      - name: SQL
+      - name: Swift
+      - name: Go
+  - title: Tools & Frameworks
+    items:
+      - name: Linux (2 years)
+      - name: Visual Studio (3 months | industrial)
+      - name: wxWidgets (3 months | industrial)
+      - name: Xcode
+      - name: PyTorch
+      - name: TensorFlow
+      - name: Keras
+      - name: Bootstrap
 ---
