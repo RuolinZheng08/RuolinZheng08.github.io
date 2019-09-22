@@ -1,17 +1,17 @@
 title: Ruolin "Lynn" Zheng's Portfolio Website
-email: ruolinzheng@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site displays Ruolin Zheng's projects, work experiences, internships,
   extracurricular activities, hobbies, and skills.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  RuolinZheng08
 
 # Build settings
 markdown: kramdown
-plugins:
-  # - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 exclude:
   - website.sublime-project
   - website.sublime-workspace
+
+analytics: UA-148352460-2

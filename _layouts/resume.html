@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    {% include analytics.html %}
     <meta charset="utf-8">
     
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148352460-2"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-148352460-2');
-    </script>
-
     <!-- Bootstrap core CSS -->
     <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -24,15 +15,13 @@
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/assets/styles.css">
 
-    <title>{{ page.title }}</title>
+    <title>{{ site.title }}</title>
 
   </head>
   <body>
     {% include navigation.html %}
     <div class="container-fluid p-0">
       {% include resume_about.html %}
-      <hr class="m-0">
-      {% include resume_section.html %}
     </div>
 
     <!-- Bootstrap core JavaScript -->
