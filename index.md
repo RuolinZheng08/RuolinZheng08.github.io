@@ -22,4 +22,6 @@ social:
     link: https://medium.com/@ruolinzheng
 
 blog: https://medium.com/@ruolinzheng
+
+resume: assets/resume.pdf
 ---
