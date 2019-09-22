@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% include analytics.html %}
     <meta charset="utf-8">
+    {% include default.html %}
     <title>{{ page.title }}</title>
   </head>
   <body>
-    {{ content }}
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="{{ page.title }}">
+      <div class="w-100">
+        <h2 class="mb-5">{{ page.title | capitalize }}</h2>
+        {{ page.content }}
+      </div>
+    </section>
   </body>
 </html>
