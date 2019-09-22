@@ -1,0 +1,22 @@
+<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="{{ page.title }}">
+  <div class="w-100">
+    <h2 class="mb-5">{{ page.title | capitalize }}</h2>
+    {% for item in page.items %}
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <!-- left col -->
+        <div class="resume-content">
+          <h3 class="mb-0">{{ item.title }}</h3>
+          <div class="subheading mb-3">{{ item.subtitle }}</div>
+          {% for desc in item.description %}
+          <p class="mb-1">{{ desc }}</p>
+          {% endfor %}
+        </div>
+        <!-- right col -->
+        <div class="resume-date text-md-right">
+          <span class="text-primary">{{ item.date }}</span>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+</section>

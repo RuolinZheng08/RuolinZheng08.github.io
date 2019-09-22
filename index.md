@@ -20,7 +20,4 @@ social:
     link: https://www.linkedin.com/in/ruolin-zheng/
   - icon: medium-m
     link: https://medium.com/@ruolinzheng
-<!-- linked_in: https://www.linkedin.com/in/ruolin-zheng/
-github: https://github.com/RuolinZheng08
-medium: https://medium.com/@ruolinzheng -->
 ---

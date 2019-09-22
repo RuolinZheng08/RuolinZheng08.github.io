@@ -22,6 +22,10 @@
     {% include navigation.html %}
     <div class="container-fluid p-0">
       {% include resume_about.html %}
+      {% for section in site.resume %}
+        <hr class="m-0">
+        {{ section }}
+      {% endfor %}
     </div>
 
     <!-- Bootstrap core JavaScript -->
