@@ -23,4 +23,16 @@ lists:
       - name: TensorFlow
       - name: Keras
       - name: Bootstrap
+      - name: Jekyll
+  - title: Relevant Courses
+    items:
+      - name: Software Development
+      - name: Computer Systems
+      - name: Parallel Computing
+      - name: Networks and Distributed Systems
+      - name: Theory of Algorithms
+      - name: Cryptography
+      - name: Computational Linguistics
+      - name: Machine Learning
+      - name: Applied Regression Analysis
 ---
