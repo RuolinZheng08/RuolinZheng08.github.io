@@ -36,7 +36,7 @@ items:
     title: AI-Powered Chess Engine for the Ren'Py Game Dev Engine
     title_icon:
     title_link:
-    subtitle: Ren'Py, Python
+    subtitle: Game Development, Ren'Py, Python
     subtitle_icon:
     subtitle_link:
     description:
