@@ -17,8 +17,3 @@ exclude:
 
 collections:
   resume:
-    order:
-      - projects.md
-      - experience.md
-      - skills.md
-      - hobbies.md
