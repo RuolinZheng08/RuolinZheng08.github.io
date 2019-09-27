@@ -7,7 +7,7 @@ lists:
   - title: Art, Sports, Games, Music, Fun ;)
     items:
       - name: Digital Art
-        description: "I started doodling earlier than I could remember and took some drawing classes at 8. I've been drawing with my tablet & iPad for 4 years now. I've created art merchandise for my high school's Anime Club fund-raising expo and some Visual Novel projects.
+        description: "I started doodling earlier than I could remember and took some drawing classes at 8. I've been drawing with my tablet & iPad for 4 years now. I've created art merchandise for my high school's Anime Club fund-raising expo and some Visual Novel projects."
       - name: Recreational Sports
         description: "I enjoy a wide range of recreational sports: swimming, cycling, hiking, jogging... you name it! Between the age of 8 and 11, I trained for 4 hours every weekend with a professional swimming team."
       - name: Game Development
