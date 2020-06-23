@@ -8,10 +8,17 @@ analytics: UA-148352460-2
 
 # Build settings
 markdown: kramdown
-plugins:
+# plugins:
 #   - jekyll-feed
 
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - website.sublime-project
   - website.sublime-workspace
 
