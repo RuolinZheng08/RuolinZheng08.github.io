@@ -1,17 +1,17 @@
 ---
 layout: resume
-title: Ruolin "Lynn" Zheng's Portfolio Website
+title: Lynn Zheng's Portfolio Website
 
-first_name: Ruolin
-nickname: Lynn
+first_name: Lynn
 last_name: Zheng
 phone: (773) 322-0142
 email: ruolinzheng@uchicago.edu
 
 intro:
-  - Hello, I'm Ruolin (pronounced <i>RU-LEEN</i>) or you can just call my Lynn. I’m a junior student at the University of Chicago double-majoring in Computer Science and Statistics. Curretly, I’m actively looking for Summer 2020 Software Engineering Internships.
-  - My most proficient programming languages are Python, C/C++. I worked as an Embedded IoT Software Development Intern in my most recent internship, building a PC App for home security cameras. I also have experience in Machine Learning, Computer Systems, and Web Development from my other internships, coursework, and extracurricular activities. 
-  - Outside the classroom, I love working on side projects in Web Development, Game Development, and so on. I’m also the Program Development Chair of UChicago TechTeam, a student civic tech organization. I lead weekly workshops on topics like Python for Data Analysis.
+  - Hi there, I'm Lynn. (Feeling adventurous? Trying pronouncing my first name: Ruolin, pronounced <i>RU-LEEN</i>.) I’m a rising senior student at the University of Chicago double-majoring in Computer Science and Statistics. I'll be graduating in June 2021 with a joint Bachelor's and Master's degree (Bx/MS) in Computer Science and a BA in Statistics.
+  - The summer of 2020, I'm a Backend Engineering Intern at Salesforce working on Team Industries - HealthCloud. The summer of 2019, I interned as a PC App Engineering Intern and built from scratch a Windows PC App for home security cameras.
+  - My most proficient programming languages are Python, Java, and C/C++. I  have experience in Machine Learning, Speech Processing, Computer Systems, and Web Development from my other internships, coursework, and extracurricular activities. 
+  - Outside the classroom, I've been the Program Development Chair of UChicago TechTeam, a student-led civic tech organization, for three years. Every fall, I led weekly workshops on topics like Python for Data Analysis. I also love working on side projects involving Web Development and Machine Learning.
 
 social:
   - icon: github
