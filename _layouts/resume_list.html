@@ -1,6 +1,9 @@
 <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="{{ page.title }}">
   <div class="w-100">
     <h2 class="mb-2">{{ page.title | capitalize }}</h2>
+    {% if page.note %}
+    <h5>{{ page.note }}</h5>
+    {% endif %}
 
     <div class="row">
       {% for list in page.lists %}
@@ -8,6 +11,7 @@
         <div class="subheading mb-3">{{ list.title }}</div>
         {% for item in list.items %}
         <p class="mb-0"> • {{ item.name }}</p>
+
         {% if item.description %}
         <p class="mb-3">{{ item.description }}</p>
         {% endif %}

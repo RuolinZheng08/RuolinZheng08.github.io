@@ -2,23 +2,26 @@
 layout: resume_section
 title: experience
 items:
-- date: June 2020 to Present
+- date: June 2020 to September 2020
   title: Salesforce, Inc.
-  title_icon: 
   title_link: 
-  subtitle: Backend Engineering Intern
-  subtitle_icon: 
-  subtitle_link: 
+  subtitle: Backend Development Intern
   description:
-    - Team Industries - HealthCloud - Leia
+    - Built a feature requested by 300+ Salesforce developers for generating PDFs from Salesforce Lightning Web Components
+    - Created said feature with a JS frontend without third-party libraries and a Java Spring RESTful backend server on Heroku
+
+- date: November 2019 to March 2020
+  title: UChicago Jason Salavon Studio
+  title_link:
+  subtitle: iOS Development Intern
+  description:
+  - Engineered DeepStyle, an app downloaded 1000+ times and rated 5 stars, that applies real-time AI style filters to videos
+  - Implemented a dashboard for the studio dev team to visualize collected user statistics like device types and session lengths
 
 - date: June 2019 to September 2019
   title: VIA Technologies, Inc.
-  title_icon: 
-  title_link: 
-  subtitle: PC App Engineering Intern
-  subtitle_icon: 
-  subtitle_link: 
+  title_link: https://youtu.be/hbz8YuNz9W4
+  subtitle: PC and iOS App Development Intern
   description:
     - Completed from scratch VPai Home, a PC App for home security cameras, which expects over 10,000 downloads
     - Equipped the App with features to live stream and receive alerts from the cameras, with TCP, OSS, and databases
@@ -27,35 +30,27 @@ items:
 
 - date: October 2018 to April 2019
   title: Nomad Credit
-  title_icon: 
   title_link: 
-  subtitle: Front-End Web Development Intern
-  subtitle_icon: 
-  subtitle_link:
+  subtitle: Frontend Web Development Intern
   description:
-    - Developed a Ruby on Rails Web App in a Docker container and monitored site performance in Google Analytics
-    - Optimized CSS for mobile display and compressed over 150 images to achieve a 50% increase in Page Load Speed
+    - Developed a Ruby on Rails web app in a Docker container and monitored site performance with Google Analytics
+    - Achieved a 50% increase in page load speed by minimizing CSS and JS assets and losslessly compressing 150+ images
 
 - date: June 2018 to August 2018
-  title: UChicago CANON Research Lab
-  title_icon: 
+  title: UChicago CANON (Computing for ANyONe) Research Lab
   title_link: 
-  subtitle: Research Assistant, Curriculum Development Intern
-  subtitle_icon: 
-  subtitle_link:
+  subtitle: Research and Development Intern
   description:
-    - Developed seven Computer Science course modules in Scratch and automated the grading process with JavaScript
-    - Built Robot Turtle (a coding board game) Online Game in HTML/CSS/JavaScript for research data collection
+    - Built a web version of Robot Turtles, the most-backed board game on Kickstarter (13,000+ backers, raised $631,000+)
+    - Developed 7 CS course modules in Scratch (coding language); Automated the grading process for 100+ students using JS
 
 - date: January 2018 to Present
   title: UChicago TechTeam
-  title_icon: 
-  title_link: 
+  title_link: https://medium.com/uchicagotechteam/welcome-to-techteam-workshops-238717489375
   subtitle: Program Development Chair, Project Leader
-  subtitle_icon: 
-  subtitle_link:
   description:
-    - Lead weekly workshops in Web Development and Python for Data Analysis, with a regular attendance of over 15
-    - Supervise 12 civic tech projects yearly, engaging over 100 students with clients like UChicago Career Advancement
+    - Instruct 50+ students with no prior coding experience by creating and leading weekly workshops on Python Data Science
+    - Engage 100+ students every year in 10+ civic tech projects with clients like nonprofits and local governments in Chicago
+
 
 ---

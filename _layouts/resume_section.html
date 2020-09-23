@@ -5,7 +5,18 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <!-- left col -->
         <div class="resume-content">
+          
+          {% if item.title_link %}
+          <h3 class="mb-0">
+            {{ item.title }} &nbsp;&nbsp;
+            <a href="{{ item.title_link }}" target="_blank">
+              <i class="fas fa-link"></i>
+            </a>
+          </h3>
+          {% else %}
           <h3 class="mb-0">{{ item.title }}</h3>
+          {% endif %}
+
           <div class="subheading mb-3">{{ item.subtitle }}</div>
           {% for desc in item.description %}
           <p class="mb-1"> • {{ desc }}</p>
