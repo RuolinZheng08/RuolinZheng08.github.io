@@ -17,7 +17,7 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
-    margin: 0 0 30px 4px;
+    margin: 40px 0 30px 4px;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
@@ -31,6 +31,7 @@ const StyledHeroSection = styled.section`
   h3 {
     margin-top: 10px;
     color: var(--slate);
+    font-size: clamp(30px, 7vw, 70px);
     line-height: 0.9;
   }
 
