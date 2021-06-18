@@ -35,7 +35,7 @@ const StyledText = styled.div`
       font-size: var(--fz-xs);
 
       &:before {
-        content: '▹';
+        content: '❖';
         position: absolute;
         left: 0;
         color: var(--green);
