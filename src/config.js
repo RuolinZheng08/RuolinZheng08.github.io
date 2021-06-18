@@ -7,8 +7,24 @@ module.exports = {
       url: 'https://github.com/RuolinZheng08',
     },
     {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw',
+    },
+    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ruolin-zheng',
+    },
+    {
+      name: 'ItchIo',
+      url: 'https://r3dhummingbird.itch.io/',
+    },
+    {
+      name: 'FreeCodeCamp',
+      url: 'https://www.freecodecamp.org/news/author/lynn/',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@ruolinzheng',
     },
   ],
 

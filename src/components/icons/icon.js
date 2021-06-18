@@ -16,6 +16,16 @@ import {
   IconStar,
   IconTwitter,
 } from '@components/icons';
+// font awesome
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { 
+  faGithub, 
+  faYoutube, 
+  faLinkedin, 
+  faMedium, 
+  faItchIo, 
+  faFreeCodeCamp,
+} from '@fortawesome/free-brands-svg-icons'
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -32,11 +42,13 @@ const Icon = ({ name }) => {
     case 'Fork':
       return <IconFork />;
     case 'GitHub':
-      return <IconGitHub />;
+      // return <IconGitHub />;
+      return <FontAwesomeIcon icon={faGithub} />;
     case 'Instagram':
       return <IconInstagram />;
     case 'Linkedin':
-      return <IconLinkedin />;
+      // return <IconLinkedin />;
+      return <FontAwesomeIcon icon={faLinkedin} />;
     case 'Loader':
       return <IconLoader />;
     case 'Logo':
@@ -47,6 +59,15 @@ const Icon = ({ name }) => {
       return <IconStar />;
     case 'Twitter':
       return <IconTwitter />;
+    // font awesome brand logos
+    case 'FreeCodeCamp':
+      return <FontAwesomeIcon icon={faFreeCodeCamp} />;
+    case 'ItchIo':
+      return <FontAwesomeIcon icon={faItchIo} />;
+    case 'YouTube':
+      return <FontAwesomeIcon icon={faYoutube} />;
+    case 'Medium':
+      return <FontAwesomeIcon icon={faMedium} />;
     default:
       return <IconExternal />;
   }
