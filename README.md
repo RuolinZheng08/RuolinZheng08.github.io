@@ -1,4 +1,4 @@
-# Lynn Zheng's Portfolio Website
+# Lynn Zheng's Portfolio Website :)
 
 <div align="center">
   <img alt="Logo" src="https://github.com/RuolinZheng08/RuolinZheng08.github.io/blob/master/src/images/logo.png" width="100" />
