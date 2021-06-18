@@ -17,7 +17,7 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
-    margin: 40px 0 30px 4px;
+    margin: 100px 0 30px 4px;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
@@ -64,10 +64,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">I create software and games.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      I'm a software engineer at {' '}
+      <a href='#'>Salesforce</a> and 
+      a hobbyist game developer. I graduated from {' '}
+      <a href='#'>the University of Chicago</a> in 2021
+      with a joint Bachelor's and Master's degree in Computer Science, 
+      specializing in Machine Learning.
     </p>
   );
   const five = (
