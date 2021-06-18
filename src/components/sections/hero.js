@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer at {' '}
-      <a href='#'>Salesforce</a> and 
+      <a href='https://www.salesforce.com/'>Salesforce</a> and 
       a hobbyist game developer. I graduated from {' '}
-      <a href='#'>the University of Chicago</a> in 2021
+      <a href='https://www.uchicago.edu/'>the University of Chicago</a> in 2021
       with a joint Bachelor's and Master's degree in Computer Science, 
       specializing in Machine Learning.
     </p>
