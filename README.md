@@ -50,7 +50,7 @@ Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4
 
 ## 🎨 Color Reference
 
-The color variables are all defined in `src/styles/variables.js`. The variable name does not necessarily correspond to the actual color value because I was experimenting with a lot of different color scheme.
+The color variables are all defined in `src/styles/variables.js`. **The variable name does not necessarily correspond to the actual color value** because I was experimenting with a lot of different color schemes.
 
 | Variable Name       | Hex                                                                                          |
 |---------------------|----------------------------------------------------------------------------------------------|
