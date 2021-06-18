@@ -121,7 +121,7 @@ const StyledLinks = styled.div`
   }
 
   .resume-button {
-    ${({ theme }) => theme.mixins.smallButton};
+    ${({ theme }) => theme.mixins.smallButtonDark};
     margin-left: 15px;
     font-size: var(--fz-xs);
   }
