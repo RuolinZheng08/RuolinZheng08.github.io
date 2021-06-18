@@ -13,7 +13,7 @@ const variables = css`
     --lightest-slate: #474745;
     --white: #e6f1ff;
     --green: #e85a4f;
-    --green-tint: #ea6b61;
+    --green-tint: #f6bdb9;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
@@ -27,7 +27,7 @@ const variables = css`
     --fz-xxl: 22px;
     --fz-heading: 32px;
 
-    --border-radius: 4px;
+    --border-radius: 8px;
     --nav-height: 100px;
     --nav-scroll-height: 70px;
 
