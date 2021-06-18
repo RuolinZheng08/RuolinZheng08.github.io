@@ -146,7 +146,7 @@ const About = () => {
               the personality of my favorite video game character, running live on a 1000+ user Discord server. 
               I also enjoy creating technical tutorials for {' '} <a href="https://www.freecodecamp.org/news/author/lynn/">freeCodeCamp</a> and 
               on {' '} <a href="https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw">my YouTube channel</a>. 
-              To explore my passion for teaching, I've recently started as an Udemy instructor.
+              To explore my passion for teaching, I've recently started as {' '} <a href="https://www.udemy.com/user/lynn-zheng-7/">an Udemy instructor.</a>
             </p>
 
             <p>Here are my favorite technologies for building awesome software and games:</p>

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2020-10-4'
 title: "Chess Engine for Ren'Py"
 cover: './chess.png'
 github: 'https://github.com/RuolinZheng08/renpy-chess'
