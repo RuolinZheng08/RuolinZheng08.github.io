@@ -27,8 +27,7 @@ const StyledJobsSection = styled.section`
 const StyledTabList = styled.div`
   position: relative;
   z-index: 3;
-  // width: max-content;
-  width: 60%;
+  width: max-content;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -141,11 +140,10 @@ const StyledHighlight = styled.div`
 
 const StyledTabPanels = styled.div`
   position: relative;
-  width: 120%;
+  width: 100%;
   margin-left: 20px;
 
   @media (max-width: 600px) {
-    width: 100%;
     margin-left: 0;
   }
 `;
