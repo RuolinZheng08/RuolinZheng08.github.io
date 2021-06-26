@@ -80,6 +80,7 @@ const StyledTabButton = styled.button`
   ${({ theme }) => theme.mixins.link};
   display: flex;
   align-items: center;
+  min-width: 180px;
   width: 100%;
   height: var(--tab-height);
   padding: 0 20px 2px;
@@ -96,13 +97,11 @@ const StyledTabButton = styled.button`
   }
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
-    min-width: 120px;
+    min-width: 180px;
     padding: 0 15px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
-    white-space: normal;
-    height: var(--tab-height-mobile);
   }
 
   &:hover,

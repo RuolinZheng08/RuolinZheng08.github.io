@@ -1,7 +1,7 @@
 ---
 date: '2019-8-27'
 title: 'PC and iOS App Development Intern'
-company: 'VIA Technologies, Inc.'
+company: 'VIA Technologies'
 location: 'Shenzhen, China'
 range: 'June 2019 - September 2019'
 url: 'https://youtu.be/hbz8YuNz9W4'

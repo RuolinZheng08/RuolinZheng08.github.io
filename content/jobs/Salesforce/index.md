@@ -1,7 +1,7 @@
 ---
 date: '2020-9-4'
 title: 'Full-Stack Development Intern'
-company: 'Salesforce, Inc.'
+company: 'Salesforce'
 location: 'San Francisco, CA'
 range: 'June 2020 - September 2020'
 url: 'https://www.salesforce.com/'
