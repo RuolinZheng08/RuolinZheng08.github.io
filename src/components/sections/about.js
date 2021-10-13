@@ -139,7 +139,7 @@ const About = () => {
             </p>
 
             <p>
-              When I'm not busy build software, I develop games and open-source projects. 
+              When I'm not busy building software, I develop games and open-source projects. 
               My open-source chess and rhythm game templates are rated 5 stars 
               on {' '} <a href="https://r3dhummingbird.itch.io/">itch.io</a>. 
               My most recent passion project is {' '} <a href="https://github.com/RuolinZheng08/twewy-discord-chatbot">a Discord AI chatbot </a> with 
