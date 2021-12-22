@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Lynn Zheng',
     description:
-      'Lynn Zheng is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Lynn Zheng is a software engineer, hobbyist game developer, and open-source enthusiast.',
     siteUrl: 'https://ruolinzheng08.github.io', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '',
+    image: 'og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: 'lynnzheng08',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
