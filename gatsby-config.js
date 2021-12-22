@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Lynn Zheng is a software engineer, hobbyist game developer, and open-source enthusiast.',
     siteUrl: 'https://ruolinzheng08.github.io', // No trailing slash allowed!
-    image: 'og.png', // Path to your image you placed in the 'static' folder
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'lynnzheng08',
   },
   plugins: [
