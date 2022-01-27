@@ -3,7 +3,7 @@ date: '2021-6-2'
 title: 'Discord AI Chatbot with a Persona'
 cover: './chatbot.png'
 github: 'https://github.com/RuolinZheng08/twewy-discord-chatbot'
-external: 'https://youtu.be/-n6uWu8PZzo'
+external: 'https://www.freecodecamp.org/news/discord-ai-chatbot/'
 tech:
   - Discord.py API
   - PyTorch
