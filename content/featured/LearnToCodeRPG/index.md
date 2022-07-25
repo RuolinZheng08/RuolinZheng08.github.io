@@ -1,5 +1,5 @@
 ---
-date: '2022-1-1'
+date: '2021-12-22'
 title: 'Learn to Code RPG'
 cover: './vn.png'
 github: 'https://github.com/freeCodeCamp/LearnToCodeRPG'
