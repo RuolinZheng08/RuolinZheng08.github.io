@@ -1,5 +1,5 @@
 ---
-date: '2021-6-2'
+date: '2021-06-02'
 title: 'Discord AI Chatbot with a Persona'
 cover: './chatbot.png'
 github: 'https://github.com/RuolinZheng08/twewy-discord-chatbot'

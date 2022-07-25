@@ -1,14 +1,10 @@
 ---
-date: '2020-9-4'
-title: 'Full-Stack Development Intern'
+date: '2021-8-2'
+title: 'Full-Stack Software Engineer'
 company: 'Salesforce'
 location: 'San Francisco, CA'
-range: 'June 2020 - September 2020'
+range: 'August 2021 - Present'
 url: 'https://www.salesforce.com/'
 ---
 
-- Built a feature requested by 300+ Salesforce developers for generating PDFs from Salesforce Lightning Web Components
-
-- Built said feature with a JavaScript frontend without third-party libraries and a Java Spring RESTful backend server on Heroku
-
-- Technologies: JavaScript, Java Spring, Heroku, Salesforce Lightning Web Components
+- Work on Financial Service Cloud products and Slack integration
