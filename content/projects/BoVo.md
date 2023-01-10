@@ -2,7 +2,7 @@
 date: '2016-8-6'
 title: "Smart Luggage Case 'BoVo'"
 github: ''
-external: 'https://youtu.be/nQbGU2BlWRk'
+external: 'https://youtu.be/T17WVJlbR4U'
 android: ''
 ios: ''
 tech:

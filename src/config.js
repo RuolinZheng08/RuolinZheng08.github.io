@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'YouTube',
-      url: 'https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw',
+      url: 'https://www.youtube.com/@lynnzheng',
     },
     {
       name: 'Linkedin',
