@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'FreeCodeCamp',
-      url: 'https://www.freecodecamp.org/news/author/lynn/',
+      url: 'https://www.freecodecamp.org/news/author/lynnzheng/',
     },
     {
       name: 'Medium',
